@@ -1,0 +1,21 @@
+"Guid","CurrencyIsoCode","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__TargetObject__c"
+1e906fe7-e5f4-4b8a-bd46-ac4bc44339e2,USD,Set VirusScan Device Count (DEP),false,111 AND (222 OR 333 OR 444),Custom,"#N/A",On Initialization,2.0,"#N/A",Calculator
+22cf799c-a956-4091-84ae-f88202a27f18,USD,Set True Discretionary Discount %,false,"#N/A",All,"#N/A",After Calculate,98.0,"#N/A",Calculator
+23367e55-1481-4c5c-b73b-6085338397bd,USD,VC_TEST2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+3198c17d-9ce0-414c-a4a4-a36083a411f1,USD,VC_TEST,false,"#N/A",All,"#N/A",On Initialization;On Calculate,"#N/A","#N/A",Configurator
+3910d3d1-cfe7-4986-bd4d-843bbbfd0c80,USD,Auto Renewal Uplift of 3%,true,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
+3a215ebf-c583-4706-bd7c-4fe9068b95dd,USD,Training Price Rule - deactivate,false,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
+4705795e-deca-4738-8dc1-8df7a9ecb22a,USD,NEW PRICE RULE 2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+4f654e78-afd6-41ef-a7cf-b4821331ac32,USD,Lookup Approval Level [Discount],true,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,99.0,Approval_Threshold__c,Calculator
+508c0a30-44b0-4f43-ae0c-dfb7e4b47d27,USD,Config - Set Device Count,true,"#N/A",All,Edit,"#N/A",99.0,"#N/A",Configurator
+61a222c8-a5d4-4dcc-8b6a-444268f37c0e,USD,NEW PRICE RULE 4,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+7b8492b0-9540-4b2b-a07c-9cc743749bec,USD,Billing Frequency Approval,true,"#N/A",All,"#N/A",On Initialization;On Calculate,20.0,"#N/A",Calculator
+80b64368-19c5-4db7-8d33-ab69c2019bd1,USD,Lookup Approval Level 3 [Discount],true,"#N/A",All,"#N/A",On Initialization,53.0,Approval_Threshold__c,Calculator
+a7120194-210c-4c32-88df-d65269f55778,USD,Set Professional Services Role Rates,true,"#N/A",All,"#N/A",On Calculate,"#N/A",Professional_Services_Rate__c,Calculator
+abe2ff4b-c35d-468f-a7ae-99751709c887,USD,Lookup Approval Level 2 [Discount],true,"#N/A",All,"#N/A",On Initialization,51.0,Approval_Threshold__c,Calculator
+c1a5a10f-a461-4295-ab17-422717c8d279,USD,Hologic Price Rule,false,"#N/A",All,Save,Before Calculate;On Calculate;After Calculate,50.0,SBQQ__LookupData__c,Calculator
+da5427e6-8348-4bf4-9cc7-7c7db889441e,USD,Calculate Tax at Order/Invoice,true,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A",Calculator
+ea8091e9-a6be-4181-9268-75a63fecd4d3,USD,NEW PRICE RULE 3,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
+f0ad8fd1-451d-492f-bb68-e307b9105c8e,USD,Set VirusScan Device Count,true,111 AND (222 OR 333 OR 444),Custom,Save,"#N/A",1.0,"#N/A",Configurator
+f2dc4393-bb65-478e-aabe-09f7a046a3e6,USD,Set Quantity for VirusScan Mac,false,"#N/A",All,Edit,Before Calculate,"#N/A","#N/A",Configurator
+fff21183-fa2a-487b-aea3-a550ff296fc6,USD,Lookup Approval Level 1 [Discount],true,"#N/A",All,"#N/A",On Initialization,50.0,Approval_Threshold__c,Calculator
