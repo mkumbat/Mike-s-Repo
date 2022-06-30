@@ -1,0 +1,5 @@
+"Guid","SBQQ__FilterType__c","SBQQ__FilterValue__c","SBQQ__FilterVariable__c","SBQQ__Index__c","SBQQ__Operator__c","SBQQ__Rule__c","SBQQ__TestedAttribute__c","SBQQ__TestedField__c","SBQQ__TestedObject__c","SBQQ__TestedVariable__c"
+762f53bd-3f9f-4159-be5b-fdc5e3acbbea,Value,5,"#N/A","#N/A",less than,dc3de087-fc1b-4049-adf9-d5282966a202,"#N/A",Unit Price,Product Option,"#N/A"
+a3f53acc-ab98-4a1f-ad04-42f279262442,Value,5,"#N/A","#N/A",less than,86b0ab66-78f9-44ce-a888-3a730b76aebb,"#N/A",Unit Price,Product Option,"#N/A"
+af5fd67a-1060-444c-8552-874078e69f2a,Variable,"#N/A",3714a8d6-dad1-4377-a5ff-fad4546688ae,"#N/A",less than,86b0ab66-78f9-44ce-a888-3a730b76aebb,"#N/A",Group Line Items,Quote,"#N/A"
+e5a58842-c727-481d-bca7-d16f01f742da,Variable,"#N/A",21d45385-93e4-4611-b522-dc45821ea2e4,"#N/A",less than,dc3de087-fc1b-4049-adf9-d5282966a202,"#N/A",Group Line Items,Quote,"#N/A"
