@@ -78,6 +78,7 @@
 6098b0fc-241c-43bc-9b35-76bcdc5e2fb2,Handling_Fee__c,"#N/A",Value,"#N/A","#N/A",Quote Line,equals,f3df7374-3707-4182-bd09-97caf60cdd8f,"#N/A","#N/A",25
 60bb7c67-bfd9-4a5f-bb46-e382829c49cf,Product Code,"#N/A",Value,"#N/A",333.0,Product Option,equals,d2e8c79c-c5fe-45db-9fa1-1f627e58968a,"#N/A","#N/A",EP-015
 618e7d1e-3626-4876-95c1-79e21f5f56ae,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,a441f957-eb06-4665-bfd9-33dc30a510f0,"#N/A","#N/A","#N/A"
+61f9bebe-c059-46fb-b4c6-2697bbe86d99,FeatureName__c,"#N/A",Value,"#N/A","#N/A",Quote,ends with,e495319a-f58e-42a6-9c40-5f395970b20e,"#N/A","#N/A","#N/A"
 62ed70eb-19bd-4eb8-a59d-544dea1e0281,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,779ae34b-c6d9-41d1-ad57-d3bd1adf40fb,"#N/A","#N/A",fdhfvu6578
 631685da-0103-42b9-b078-ae7b55b41310,Product Code,"#N/A",Value,"#N/A",333.0,Product Option,equals,82bb4371-1a0c-4d35-b19a-a1bddf24f192,"#N/A","#N/A",EP-015
 63ac5314-09d9-4955-9444-574127283043,SBQQ__ProductCode__c,"#N/A",Value,"#N/A","#N/A",Product Option,equals,455ededf-a57a-4741-a125-a8a1b90e08ff,"#N/A","#N/A",EP-025
@@ -94,6 +95,7 @@
 69acc2fb-568b-4831-878f-f3162255522b,Product Code,"#N/A",Value,"#N/A",333.0,Quote Line,equals,20ef0094-911b-4134-8b99-d9cfab683f6a,"#N/A","#N/A",EP-015
 6a00f50a-67e9-467b-b2c8-875cb6784a4e,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,620de057-9795-4b98-a79e-f6192f6c9956,"#N/A","#N/A",fdhfvu6578
 6b36dee8-b980-4484-8c46-335500ef954d,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,0754caa3-4ac1-4599-9be8-bf9708eea366,"#N/A","#N/A",Run-on-all-quotelines
+6caff505-a924-4fb2-9603-192da5f7df09,OSKUProduct_Line__c,"#N/A",Value,"#N/A","#N/A",Quote,starts with,db7c81fa-135c-402f-844d-fadd20c87841,"#N/A","#N/A","#N/A"
 6d43e08a-c839-4c8e-8e0d-96206e16f231,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,457ddf09-a7e4-446b-893a-c338d818f42f,"#N/A","#N/A","#N/A"
 6e2dc12b-9661-4592-b1d9-983972b95422,Product Code,"#N/A",Value,"#N/A",444.0,Product Option,equals,82bb4371-1a0c-4d35-b19a-a1bddf24f192,"#N/A","#N/A",EP-025
 71a9dacb-8195-4ac4-ab45-346a1dcd6f38,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,89979a16-6d91-466c-8cc5-e611d2106fc8,"#N/A","#N/A",Run-on-all-quotelines
